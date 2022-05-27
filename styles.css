@@ -1,3 +1,24 @@
 li {
  font-family: 'Times New Roman', Times, serif;
 }
+
+.index {
+    font-size: 22px;
+}
+
+.title {
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+.brownie {
+    color: brown;
+}
+
+.cookie {
+    color: #D28F33;
+}
+
+.muffin {
+    color:#54729A;
+}
